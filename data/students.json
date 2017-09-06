@@ -239,6 +239,12 @@
       "email": "jacquefc@usc.edu",
       "photo": null,
       "url": null
+    },
+    "omid":{
+      "name": "Omid Davtalab",
+      "email": "davtalab@usc.edu",
+      "photo": "http://www.craft-usc.com/wp-content/uploads/2016/12/DSC_0802_edited_reduced.jpg",
+      "url": "http://www.craft-usc.com/omid-davtalab/"
     }
   },
   "dr-students": [
